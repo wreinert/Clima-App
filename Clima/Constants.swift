@@ -6,4 +6,6 @@
 //  Copyright © 2022 App Brewery. All rights reserved.
 //
 
-import Foundation
+struct K {
+    static let apiKey = "7cfba3b1729f0e2cfb018ab1dab7c974"
+}
